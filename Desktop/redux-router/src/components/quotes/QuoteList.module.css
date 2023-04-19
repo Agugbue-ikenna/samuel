@@ -1,0 +1,24 @@
+.sorting {
+    padding-bottom: 1rem;
+    border-bottom: 3px solid red;
+    margin-bottom: 2rem;
+}
+
+.sorting button {
+    font: inherit;
+    color: rgb(220, 4, 4);
+    border: 1px solid red;
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+    width: auto;
+}
+.sorting button:hover{
+    background-color: transparent;
+}
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
